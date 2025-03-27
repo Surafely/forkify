@@ -80,7 +80,7 @@ class RecipeView extends View {
 
            <div class="recipe__user-generated ${
              this._data.key ? '' : 'hidden'
-           }">
+           }"> 
             <svg>
               <use href="${icons}#icon-user"></use>
             </svg>
@@ -140,5 +140,5 @@ class RecipeView extends View {
     `;
   }
 }
-
+console.log('run');
 export default new RecipeView();
