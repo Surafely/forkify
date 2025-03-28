@@ -1,6 +1,7 @@
 import View from './View.js';
 
 import icons from 'url:../../img/icons.svg';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import { Fraction } from 'fraction.js';
 // import Fraction from './utils/fraction.js';
 // import Fraction from 'fractional';
