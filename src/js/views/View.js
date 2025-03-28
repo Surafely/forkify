@@ -1,5 +1,4 @@
 import icons from 'url:../../img/icons.svg';
-import '@fortawesome/fontawesome-free/css/all.min.css';
 
 export default class View {
   _data;
